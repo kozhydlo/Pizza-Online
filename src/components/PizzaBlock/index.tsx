@@ -5,7 +5,7 @@ import { selectCartItemById } from '../../redux/cart/selectors';
 import { CartItem } from '../../redux/cart/types';
 import { addItem } from '../../redux/cart/slice';
 
-const typeNames = ['тонкое', 'традиционное'];
+const typeNames = ['Тонке', 'Традиційне'];
 
 type PizzaBlockProps = {
   id: string;
