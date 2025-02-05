@@ -1,3 +1,5 @@
+![Pizza Online](https://res.cloudinary.com/ddz9i6tqa/image/upload/fgax258rwlrxdsyvwnbc)
+
 # Pizza Online
 
 This is a learning project for an online pizza ordering interface. The project includes a pizza selection feature, size and dough type options, a shopping cart, and a search function.
